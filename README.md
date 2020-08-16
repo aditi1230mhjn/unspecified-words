@@ -7,13 +7,19 @@ Words : list of given dictionary
 Q : No. of Query words to find
 Query : Incomplete words with '?'
 
-Test Case:
-> 5
-4
+### Test Case:
+>5
+3
 cat
 bat
 map
 man
 pen
+4
+?at
+??n
+???
+ma?
 
-Output:
+### Output :
+> [2, 2, 5, 2]
