@@ -8,7 +8,7 @@ Q : No. of Query words to find
 Query : Incomplete words with '?'
 
 Test Case:
-5
+> 5
 4
 cat
 bat
